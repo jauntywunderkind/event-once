@@ -1,0 +1,22 @@
+{
+	"name": "event-once",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "Abortable Promise for next firing of an EventEmitter/EventTarget",
+	"main": "event-once.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/event-once"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "event-once.js",
+	"esm": true,
+	"dependencies": {
+		"abort-exception": "^1.0.0"
+	}
+}
