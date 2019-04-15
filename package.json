@@ -1,7 +1,7 @@
 {
 	"name": "event-once",
 	"type": "module",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Abortable Promise for next firing of an EventEmitter/EventTarget",
 	"main": "event-once.js",
 	"scripts": {
